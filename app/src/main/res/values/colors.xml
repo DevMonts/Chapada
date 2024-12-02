@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white100">#FFF</color>
+    <color name="whiteo75">#BFFFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="white25">#40FFFFFF</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="black25">#40000000</color>
+    <color name="black50">#80000000</color>
+    <color name="black75">#BF000000</color>
+    <color name="black100">#000</color>
+
+    <color name="sky1">#103259</color>
+    <color name="sky2">#37649B</color>
+
+    <color name="brick">#8B4F39</color>
+    <color name="bread">#C68958</color>
+    <color name="green">#0F0</color>
+    <color name="couro">#624A2E</color>
+    <color name="army">#4B5320</color>
+
+</resources>
