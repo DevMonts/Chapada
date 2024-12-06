@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grafico"
+    app:startDestination="@id/Botao1">
+
+    <fragment
+        android:id="@+id/Botao1"
+        android:name="br.com.chapada.Fragments.Fragment1"
+        android:label="fragment_1"
+        tools:layout="@layout/fragment_1" />
+    <fragment
+        android:id="@+id/Botao2"
+        android:name="br.com.chapada.Fragments.Fragment2"
+        android:label="fragment_2"
+        tools:layout="@layout/fragment_2" />
+    <fragment
+        android:id="@+id/Botao3"
+        android:name="br.com.chapada.Fragments.Fragment3"
+        android:label="fragment_3"
+        tools:layout="@layout/fragment_3" />
+    <fragment
+        android:id="@+id/Botao4"
+        android:name="br.com.chapada.Fragments.Fragment4"
+        android:label="fragment_4"
+        tools:layout="@layout/fragment_4" />
+    <fragment
+        android:id="@+id/Botao5"
+        android:name="br.com.chapada.Fragments.Fragment5"
+        android:label="fragment_5"
+        tools:layout="@layout/fragment_5" />
+</navigation>

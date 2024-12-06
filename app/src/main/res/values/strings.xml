@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Chapada Maps</string>
+    <string name="Descrição">Seu guia de turismo</string>
+    <string name="EmailHint">Email</string>
+    <string name="SenhaHint">Senha</string>
+    <string name="Entrar">Entrar</string>
+    <string name="CriarConta">Criar Conta</string>
+
+    <string name="Cadastrar">CADASTRAR</string>
+
+    <string name="Legenda1">Mapa</string>
+    <string name="Legenda2">Trilha</string>
+    <string name="Legenda3">Hospedagem</string>
+    <string name="Legenda4">Alimentação</string>
+    <string name="Legenda5">Pacotes</string>
+
+    <string name="NomeDaTrilha">CACHOEIRA DO TIBURTINO</string>
+    <string name="Km">• 1,5 km de trilha </string>
+    <string name="Obs1">• Trilha média, com pedras e areia. Predominantemente plana, porém com algumas subidas e descidas.</string>
+    <string name="Obs2">• Você pode ir por conta própria ou contratar um guia do projeto sempre viva.</string>
+    <string name="Obs3">• Além da cachoeira tb tem ruínas de casas antigas dos garimpeiros.</string>
+    <string name="Obs4">• 20 reais entrada.</string>
+    <string name="Obs5">• Pode levar comida e bebida.</string>
+    <string name="Obs6">•Fecha 17:30.</string>
+
+</resources>

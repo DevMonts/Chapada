@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Botao1"
+        android:icon="@drawable/botao_mapa"
+        android:title="@string/Legenda1" />
+
+    <item
+        android:id="@+id/Botao2"
+        android:icon="@drawable/botao_mochila"
+        android:title="@string/Legenda2" />
+
+    <item
+        android:id="@+id/Botao3"
+        android:icon="@drawable/botao_casa"
+        android:title="@string/Legenda3" />
+
+    <item
+        android:id="@+id/Botao4"
+        android:icon="@drawable/botao_hamburguer"
+        android:title="@string/Legenda4" />
+
+    <item
+        android:id="@+id/Botao5"
+        android:icon="@drawable/botao_mala"
+        android:title="@string/Legenda5" />
+
+</menu>

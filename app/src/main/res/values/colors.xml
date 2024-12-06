@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="branco100">#FFF</color>
+    <color name="branco75">#BFFFFFFF</color>
+    <color name="branco50">#80FFFFFF</color>
+    <color name="branco25">#40FFFFFF</color>
+
+    <color name="transparente">#00FFFFFF</color>
+
+    <color name="preto25">#40000000</color>
+    <color name="preto50">#80000000</color>
+    <color name="preto75">#BF000000</color>
+    <color name="preto100">#000</color>
+
+    <color name="ceu1">#103259</color>
+    <color name="ceu2">#37649B</color>
+
+    <color name="tijolo">#8B4F39</color>
+    <color name="pão">#C68958</color>
+    <color name="verde">#0F0</color>
+    <color name="couro">#624A2E</color>
+    <color name="exército">#4B5320</color>
+
+</resources>

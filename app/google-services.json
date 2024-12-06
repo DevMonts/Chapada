@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544793988218",
+    "project_id": "chapada-maps",
+    "storage_bucket": "chapada-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544793988218:android:b47e4ffcb22dbd59edbfc3",
+        "android_client_info": {
+          "package_name": "br.com.chapada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBM49RotOa6E6Sz-UfCZRv602c5_6ybn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
