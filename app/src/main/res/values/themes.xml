@@ -3,5 +3,6 @@
     <style name="Theme.Chapada" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">@color/branco100</item>
         <item name="android:windowBackground">@drawable/pai_inacio</item>
+        <item name="fontFamily">@font/inter_medium</item>
     </style>
 </resources>

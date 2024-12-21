@@ -33,6 +33,7 @@
             android:hint="@string/EmailHint"
             android:inputType="text"
             android:textAlignment="center"
+            android:singleLine="true"
             app:layout_constraintBottom_toTopOf="@+id/ImputSenha" />
 
         <androidx.appcompat.widget.AppCompatEditText
@@ -48,6 +49,7 @@
             android:hint="@string/SenhaHint"
             android:inputType="textPassword"
             android:textAlignment="center"
+            android:singleLine="true"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
